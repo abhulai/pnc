@@ -1,2 +1,1 @@
-# pnc
-Voorbeeld
+pnc.github.io 
